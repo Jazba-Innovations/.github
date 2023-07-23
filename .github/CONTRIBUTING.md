@@ -2,18 +2,23 @@
 
 Making meaningful commits is is essential for better collaboration and maintaining a clear history of changes, otherwise PRs won't be accepted. Follow the guidelines below for writing meaningful commit messages:
 
-1. *Include Affected Area:* Mention the folder or page that the changes belong to in the commit message. This provides context about which part of the project is being modified.
+<br />
 
-2. *Use Conventional Commits:* Conventional commits follow a structured format, which makes it easier to understand the changes and automate processes like generating changelogs. The format is: `<type>(<scope>): <description>`
+1. **Include Affected Area:** _Mention the folder or page that the changes belong to in the commit message. This provides context about which part of the project is being modified._
+
+2. **Use Conventional Commits:** _Conventional commits follow a structured format, which makes it easier to understand the changes and automate processes like generating changelogs. The format is: `<type>(<scope>): <description>`_
 
      - `<type>:` Represents the type of the commit (e.g., feat, fix, chore, docs, style, etc.)
      - `<scope>:`  Denotes the affected module, component, or area of the project.
      - `<description>:` A concise description of the changes.
+  
+3. **Be Specific:** _Clearly describe the purpose of the changes. Avoid vague or generic statements._
 
-3. *Be Specific:* Clearly describe the purpose of the changes. Avoid vague or generic statements.
+4. **Use Imperative Tense:** _Write commit messages in the imperative mood (e.g., "update," "fix," "add," instead of "updated," "fixed," "added")._
 
-4. *Use Imperative Tense:* Write commit messages in the imperative mood (e.g., "update," "fix," "add," instead of "updated," "fixed," "added").
-
+<br />
+<hr />
+<br />
 
 ### Commit Types:
 
@@ -28,7 +33,10 @@ Here are some common commit types. Learn more about it [in this article](https:/
 - `chore`: Use for maintenance tasks, build-related changes, etc.
 
 
+<br />
+
 Here is an example of a valid / invalid commit:
+
 
 ```
 # BAD COMMIT MESSAGE
