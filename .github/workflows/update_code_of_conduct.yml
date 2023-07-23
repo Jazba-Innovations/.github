@@ -1,0 +1,25 @@
+name: Update Contributing Last Updated
+
+on:
+  push:
+    paths:
+      - .github/CODE_OF_CONDUCT.md
+
+jobs:
+  update_contributing_md:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set Last Updated Date
+        run: |
+          sed -i "s/{{ last_updated }}/$(date +'%B %d, %Y')/" .github/CODE_OF_CONDUCT.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Auto-update Contributing Last Updated date" -a
+          git push
