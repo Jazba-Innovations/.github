@@ -1,0 +1,59 @@
+name: Task
+description: Create a new task or action item
+title: "[Task]: "
+labels: ["task", "triage"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for creating a new task or action item!
+
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+
+  - type: textarea
+    id: task-details
+    attributes:
+      label: Task Details
+      description: Describe the details of the task or action item.
+      placeholder: Be clear and concise in your task description.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      description: Select the priority level for this task.
+      options:
+        - High
+        - Medium
+        - Low
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps-to-complete
+    attributes:
+      label: Steps to Complete
+      description: Outline the steps needed to complete the task.
+      placeholder: Break down the task into actionable steps.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
