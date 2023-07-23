@@ -1,0 +1,79 @@
+name: Enhancement Proposal
+description: Propose a new enhancement or improvement
+title: "[Enhancement Proposal]: "
+labels: ["enhancement", "triage"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for proposing an enhancement or improvement!
+
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+
+  - type: textarea
+    id: current-behavior
+    attributes:
+      label: Current Behavior
+      description: Describe the behavior or functionality in its current state.
+      placeholder: Explain how things work currently.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed-behavior
+    attributes:
+      label: Proposed Behavior
+      description: Describe the enhancement or improvement you are proposing.
+      placeholder: Explain the changes you'd like to see.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: benefits
+    attributes:
+      label: Benefits
+      description: Check all that apply.
+      options:
+        - label: Improved Performance
+        - label: Better User Experience
+        - label: Increased Efficiency
+        - label: Other Benefits
+    validations:
+      required: false
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: If applicable, describe any alternative solutions or approaches you've considered.
+      placeholder: Explain other possibilities you explored.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: additional-info
+    attributes:
+      label: Additional Information
+      description: Check all that apply.
+      options:
+        - label: Design/UI/UX
+        - label: Implementation Details
+        - label: Test Plan
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
