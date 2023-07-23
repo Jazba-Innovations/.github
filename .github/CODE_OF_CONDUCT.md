@@ -44,4 +44,4 @@ By following this code of conduct, we create a supportive and nurturing environm
 
 Jazba Services is dedicated to upholding this code of conduct. If you have any questions or concerns, please feel free to reach out to us at contact@jazba-services.com.
 
-_Last Updated: {{ last_updated }}_
+_Last Updated: July 23, 2023_
