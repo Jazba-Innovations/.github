@@ -1,0 +1,38 @@
+name: Question
+description: Ask a question or seek clarification
+title: "[Question]: "
+labels: ["question", "triage"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reaching out with your question or seeking clarification!
+
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+
+  - type: textarea
+    id: question-details
+    attributes:
+      label: Question Details
+      description: Ask your question or provide more context about your inquiry.
+      placeholder: Be clear and concise in your question.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
