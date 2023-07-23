@@ -1,0 +1,65 @@
+name: Security Vulnerability Report
+description: Report a security vulnerability in the project
+title: "[Security Vulnerability]: "
+labels: ["security", "triage"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for responsibly reporting a security vulnerability!
+
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+
+  - type: textarea
+    id: vulnerability-description
+    attributes:
+      label: Vulnerability Description
+      description: Describe the security vulnerability you discovered.
+      placeholder: Provide a detailed description of the vulnerability.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps to Reproduce
+      description: Provide steps to reproduce the security issue (if applicable).
+      placeholder: Explain how to reproduce the vulnerability.
+    validations:
+      required: false
+
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impact
+      description: Describe the potential impact of the vulnerability.
+      placeholder: Explain the possible consequences of the vulnerability.
+    validations:
+      required: false
+
+  - type: textarea
+    id: suggested-fix
+    attributes:
+      label: Suggested Fix
+      description: If you have a suggestion for a fix, provide it here.
+      placeholder: Describe a possible fix for the vulnerability.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
