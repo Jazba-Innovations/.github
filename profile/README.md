@@ -1,21 +1,21 @@
-# Jazba Services - Visionary Minds
-> Insert an engaging and concise description of your organization here. Highlight your core values, mission, and what sets Jazba Services apart.
+# Jazba Innovations - Visionary Minds
+> Insert an engaging and concise description of your organization here. Highlight your core values, mission, and what sets Jazba Innovations apart.
 
 ## Table of Contents
 
-- [About Jazba Services](#about-jazba-services)
+- [About Jazba Innovations](#about-jazba-services)
 - [Services](#services)
 - [Projects](#projects)
 - [Getting Started](#getting-started)
 - [Contact Us](#contact-us)
 
-## About Jazba Services
+## About Jazba Innovations
 
-Jazba Services is a team of visionary minds with expertise in delivering innovative software solutions and captivating designs. We are passionate about turning ideas into reality and empowering businesses with our Full Stack Web and Mobile App development, Design, and Animation services.
+Jazba Innovations is a team of visionary minds with expertise in delivering innovative software solutions and captivating designs. We are passionate about turning ideas into reality and empowering businesses with our Full Stack Web and Mobile App development, Design, and Animation services.
 
 ## Services
 
-At Jazba Services, we offer a wide range of services to cater to your business needs:
+At Jazba Innovations, we offer a wide range of services to cater to your business needs:
 
 - **Full Stack Web Development:** Crafting scalable and responsive web applications using the latest technologies.
 
@@ -37,7 +37,7 @@ Check out our [GitHub organization](https://github.com/your-organization) to exp
 
 ## Getting Started
 
-If you're interested in collaborating with Jazba Services or availing our software and design services, please reach out to us through one of the channels mentioned below. Our team will be delighted to discuss your project requirements and provide tailored solutions to meet your business goals.
+If you're interested in collaborating with Jazba Innovations or availing our software and design services, please reach out to us through one of the channels mentioned below. Our team will be delighted to discuss your project requirements and provide tailored solutions to meet your business goals.
 
 ## Contact Us
 
@@ -45,7 +45,7 @@ To get in touch with us, you can:
 
 - Visit our website: [https://www.jazba-services.com](https://www.jazbaservices.com)
 - Email us: jazbaservices440@gmail.com
-- Connect on LinkedIn: [Jazba Services](https://www.linkedin.com/company/jazba-services)
+- Connect on LinkedIn: [Jazba Innovations](https://www.linkedin.com/company/jazba-services)
 - Follow us on Twitter: [@JazbaServices](https://twitter.com/JazbaServices)
 
 Let's build innovative software solutions together and turn visions into reality!
