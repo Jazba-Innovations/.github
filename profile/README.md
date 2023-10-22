@@ -25,16 +25,6 @@ At Jazba Innovations, we offer a wide range of services to cater to your busines
 
 - **Animation Services:** Bringing life to your ideas through captivating animations and motion graphics.
 
-## Projects
-
-Here are some of the projects we've worked on:
-
-- Project A: Brief description and link to the repository or live demo if available.
-- Project B: Brief description and link to the repository or live demo if available.
-- Project C: Brief description and link to the repository or live demo if available.
-
-Check out our [GitHub organization](https://github.com/your-organization) to explore more projects.
-
 ## Getting Started
 
 If you're interested in collaborating with Jazba Innovations or availing our software and design services, please reach out to us through one of the channels mentioned below. Our team will be delighted to discuss your project requirements and provide tailored solutions to meet your business goals.
@@ -43,9 +33,9 @@ If you're interested in collaborating with Jazba Innovations or availing our sof
 
 To get in touch with us, you can:
 
-- Visit our website: [https://www.jazba-services.com](https://www.jazbaservices.com)
-- Email us: jazbaservices440@gmail.com
-- Connect on LinkedIn: [Jazba Innovations](https://www.linkedin.com/company/jazba-services)
-- Follow us on Twitter: [@JazbaServices](https://twitter.com/JazbaServices)
+- Visit our website: [https://www.jazbainnovations.com](https://www.jazbainnovations.com)
+- Email us: info@jazbainnovations.com
+- Connect on LinkedIn: [Jazba Innovations](https://www.linkedin.com/company/jazba-ltd)
+- Follow us on Twitter: [@JazbaPvtLtd](https://twitter.com/JazbaPvtLtd)
 
 Let's build innovative software solutions together and turn visions into reality!
