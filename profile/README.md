@@ -3,9 +3,8 @@
 
 ## Table of Contents
 
-- [About Jazba Innovations](#about-jazba-services)
+- [About Jazba Innovations](#about-jazba-innovations)
 - [Services](#services)
-- [Projects](#projects)
 - [Getting Started](#getting-started)
 - [Contact Us](#contact-us)
 
