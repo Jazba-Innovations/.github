@@ -1,5 +1,5 @@
 # Jazba Innovations - Visionary Minds
-> Insert an engaging and concise description of your organization here. Highlight your core values, mission, and what sets Jazba Innovations apart.
+> Jazba innovations is not just a company, rather it is the fusion of innovation and passion. It stands out due to its commitment towards redefining the standards of modern landscape. Jazba Innovations is the powerhouse of extremely enthusiastic, passionate and skilled young spirits committed to pour out the entire skill set required to meet the goals. To craft the dynamic digital solutions that go beyond the ordinary, Jazba team is embedded with skill set like MERN Stack, React.js, React Native, Node.js, and more. The 3D product commercials at Jazba innovations elevates the way products are showcased in the modern world.From seamless web and mobile app experiences to captivating visual motion design, Jazba&apos;s holistic approach delivers results. It is not just a cluster of digital creed but a brand building identities that resonates. Choose Jazba Innovations to embrace innovation, creativity, and a client-centric journey into the future. Join us at www.jazbainnovations.com to explore and feature your vision into reality.
 
 ## Table of Contents
 
@@ -35,6 +35,6 @@ To get in touch with us, you can:
 - Visit our website: [https://www.jazbainnovations.com](https://www.jazbainnovations.com)
 - Email us: info@jazbainnovations.com
 - Connect on LinkedIn: [Jazba Innovations](https://www.linkedin.com/company/jazba-ltd)
-- Follow us on Twitter: [@JazbaPvtLtd](https://twitter.com/JazbaPvtLtd)
+- Follow us on Instagram: [@jazbainnovations](https://www.instagram.com/jazbainnovations/)
 
 Let's build innovative software solutions together and turn visions into reality!
